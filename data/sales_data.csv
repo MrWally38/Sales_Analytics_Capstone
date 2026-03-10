@@ -1,0 +1,100 @@
+01/01/11,Consumer,Algeria,Africa,OFF-TEN-10000025,Office Supplies,"Tenex Lockers, Blue",408.3,2
+01/01/11,Consumer,Australia,Oceania,OFF-SU-10000618,Office Supplies,"Acme Trimmer, High Speed",120.366,3
+01/01/11,Consumer,Hungary,EMEA,OFF-TEN-10001585,Office Supplies,"Tenex Box, Single Width",66.12,4
+01/01/11,Home Office,Sweden,North,OFF-PA-10001492,Office Supplies,"Enermax Note Cards, Premium",44.865,3
+01/01/11,Consumer,Australia,Oceania,FUR-FU-10003447,Furniture,"Eldon Light Bulb, Duo Pack",113.67,5
+01/01/11,Consumer,Australia,Oceania,OFF-PA-10001968,Office Supplies,"Eaton Computer Printout Paper, 8.5 x 11",55.242,2
+02/01/11,Consumer,Bangladesh,Central Asia,TEC-CO-10002316,Technology,"Brother Personal Copier, Laser",285.78,2
+02/01/11,Consumer,United States,West,FUR-BO-10003966,Furniture,"Sauder Facets Collection Library, Sky Alder Finish",290.666,2
+02/01/11,Corporate,Angola,Africa,OFF-FEL-10001541,Office Supplies,"Fellowes Lockers, Wire Frame",206.4,1
+02/01/11,Corporate,China,North Asia,OFF-ST-10002161,Office Supplies,"Tenex Trays, Single Width",162.72,3
+02/01/11,Corporate,China,North Asia,OFF-AP-10001254,Office Supplies,"KitchenAid Coffee Grinder, Red",352.35,5
+02/01/11,Corporate,Panama,Central,OFF-AP-10002317,Office Supplies,"Hamilton Beach Refrigerator, Silver",400.704,2
+02/01/11,Consumer,Iran,EMEA,FUR-ADV-10002601,Furniture,"Advantus Photo Frame, Erganomic",309.6,6
+02/01/11,Corporate,France,Central,OFF-AR-10001529,Office Supplies,"Binney & Smith Pencil Sharpener, Easy-Erase",139.65,5
+02/01/11,Consumer,Bangladesh,Central Asia,OFF-SU-10000484,Office Supplies,"Kleencut Ruler, High Speed",40.68,3
+02/01/11,Corporate,Panama,Central,TEC-AC-10001221,Technology,"Memorex Memory Card, USB",81.984,2
+02/01/11,Consumer,Italy,South,OFF-AR-10000980,Office Supplies,"Sanford Pencil Sharpener, Water Color",78.3,3
+02/01/11,Consumer,Bangladesh,Central Asia,OFF-BI-10003012,Office Supplies,"Wilson Jones Hole Reinforcements, Economy",22.65,5
+02/01/11,Consumer,Bangladesh,Central Asia,OFF-LA-10001292,Office Supplies,"Smead File Folder Labels, Adjustable",20.34,3
+02/01/11,Corporate,France,Central,OFF-EN-10004597,Office Supplies,"GlobeWeis Peel and Seal, Set of 50",21.39,1
+02/01/11,Consumer,Germany,Central,OFF-BI-10001249,Office Supplies,"Acco Hole Reinforcements, Recycled",21.06,3
+02/01/11,Consumer,Germany,Central,OFF-BI-10001717,Office Supplies,"Avery Hole Reinforcements, Durable",11.82,2
+02/01/11,Corporate,Panama,Central,OFF-BI-10000719,Office Supplies,"Wilson Jones Hole Reinforcements, Clear",9.576,6
+03/01/11,Consumer,Canada,Canada,OFF-FEL-10001405,Office Supplies,"Fellowes File Cart, Industrial",551.16,4
+03/01/11,Corporate,United Kingdom,North,FUR-BO-10000259,Furniture,"Safco Classic Bookcase, Traditional",1314.45,3
+03/01/11,Consumer,Ukraine,EMEA,TEC-LOG-10003896,Technology,"Logitech Router, Erganomic",1470.78,6
+03/01/11,Consumer,Germany,Central,OFF-AP-10002568,Office Supplies,"Hamilton Beach Toaster, Black",364.416,8
+03/01/11,Home Office,United States,Central,FUR-CH-10000863,Furniture,Novimex Swivel Fabric Task Chair,634.116,6
+03/01/11,Consumer,Canada,Canada,FUR-HAR-10001792,Furniture,"Harbour Creations Bag Chairs, Red",246.48,4
+03/01/11,Corporate,United Kingdom,North,FUR-CH-10002830,Furniture,"Office Star Rocking Chair, Red",704.55,5
+03/01/11,Consumer,Ukraine,EMEA,OFF-FEL-10002867,Office Supplies,"Fellowes Lockers, Single Width",1244.16,6
+03/01/11,Consumer,Australia,Oceania,TEC-MA-10002520,Technology,"Panasonic Receipt Printer, White",214.758,2
+03/01/11,Consumer,United States,West,FUR-CH-10004063,Furniture,Global Deluxe High-Back Manager's Chair,457.568,2
+03/01/11,Consumer,Ukraine,EMEA,TEC-SHA-10004874,Technology,"Sharp Fax Machine, High-Speed",587.7,2
+03/01/11,Consumer,United States,Central,FUR-TA-10001866,Furniture,Bevis Round Conference Room Tables and Bases,376.509,3
+03/01/11,Corporate,United Kingdom,North,OFF-AR-10004151,Office Supplies,"BIC Sketch Pad, Blue",194.64,4
+03/01/11,Consumer,United States,Central,FUR-CH-10001270,Furniture,Harbour Creations Steel Folding Chair,362.25,6
+03/01/11,Home Office,Ukraine,EMEA,FUR-HON-10002424,Furniture,"Hon Steel Folding Chair, Red",162.84,2
+03/01/11,Home Office,Ukraine,EMEA,OFF-FEL-10002897,Office Supplies,"Fellowes Shelving, Single Width",115.74,2
+03/01/11,Consumer,Canada,Canada,TEC-APP-10004912,Technology,"Apple Speaker Phone, with Caller ID",493.2,4
+03/01/11,Consumer,France,Central,OFF-AR-10001418,Office Supplies,"BIC Markers, Easy-Erase",106.8,4
+03/01/11,Consumer,Ukraine,EMEA,TEC-KON-10002194,Technology,"Konica Printer, White",266.25,1
+03/01/11,Corporate,Japan,North Asia,FUR-FU-10002210,Furniture,"Tenex Clock, Black",351.75,7
+03/01/11,Consumer,Indonesia,Southeast Asia,FUR-CH-10001465,Furniture,"Hon Swivel Stool, Red",238.929,2
+03/01/11,Consumer,Indonesia,Southeast Asia,OFF-EN-10004495,Office Supplies,"Kraft Peel and Seal, Security-Tint",109.1853,9
+03/01/11,Corporate,Germany,Central,TEC-AC-10004791,Technology,"Belkin Keyboard, USB",151.362,2
+03/01/11,Consumer,Australia,Oceania,TEC-PH-10001619,Technology,"Cisco Signal Booster, Full Size",91.872,1
+03/01/11,Consumer,Ukraine,EMEA,FUR-SAF-10004530,Furniture,"Safco Floating Shelf Set, Traditional",196.74,1
+03/01/11,Consumer,Germany,Central,OFF-ST-10000875,Office Supplies,"Smead Shelving, Single Width",117.504,3
+03/01/11,Consumer,United States,Central,OFF-ST-10003692,Office Supplies,Recycled Steel Personal File for Hanging File Folders,137.352,3
+03/01/11,Home Office,Ukraine,EMEA,OFF-STA-10000298,Office Supplies,"Stanley Canvas, Blue",98.94,2
+03/01/11,Consumer,Germany,Central,OFF-ST-10000988,Office Supplies,"Fellowes Folders, Blue",63.36,3
+03/01/11,Consumer,United States,Central,OFF-ST-10001469,Office Supplies,Fellowes Bankers Box Recycled Super Stor/Drawer,129.552,3
+03/01/11,Consumer,United States,Central,FUR-FU-10001095,Furniture,DAX Black Cherry Wood-Tone Poster Frame,63.552,6
+03/01/11,Consumer,Ukraine,EMEA,TEC-STA-10004927,Technology,"StarTech Receipt Printer, Wireless",221.16,2
+03/01/11,Consumer,Canada,Canada,OFF-ACC-10004692,Office Supplies,"Acco 3-Hole Punch, Recycled",30.48,1
+03/01/11,Home Office,Germany,Central,TEC-MA-10001825,Technology,"Epson Calculator, Durable",46.53,1
+03/01/11,Consumer,Australia,Oceania,OFF-SU-10001770,Office Supplies,"Acme Scissors, Easy Grip",24.354,1
+03/01/11,Consumer,Australia,Oceania,OFF-PA-10000116,Office Supplies,"Xerox Parchment Paper, Premium",23.868,3
+03/01/11,Consumer,Ukraine,EMEA,OFF-ELD-10002578,Office Supplies,"Eldon Box, Single Width",61.74,6
+03/01/11,Corporate,United Kingdom,North,OFF-AR-10004884,Office Supplies,"Sanford Pens, Fluorescent",37.08,3
+03/01/11,Home Office,Germany,Central,OFF-AR-10000505,Office Supplies,"Binney & Smith Pens, Easy-Erase",146.52,12
+03/01/11,Home Office,Germany,Central,OFF-ST-10000127,Office Supplies,"Fellowes Shelving, Wire Frame",102.438,2
+03/01/11,Consumer,Canada,Canada,OFF-OIC-10002161,Office Supplies,"OIC Push Pins, Assorted Sizes",12.36,1
+03/01/11,Consumer,Canada,Canada,OFF-HON-10001783,Office Supplies,"Hon Shipping Labels, 5000 Label Set",11.76,1
+03/01/11,Consumer,Ukraine,EMEA,FUR-NOV-10004962,Furniture,"Novimex Bag Chairs, Adjustable",48.45,1
+03/01/11,Consumer,United States,Central,OFF-FA-10004395,Office Supplies,Plymouth Boxed Rubber Bands by Plymouth,18.84,5
+03/01/11,Home Office,United States,Central,OFF-PA-10003036,Office Supplies,"Black Print Carbonless 8 1/2"" x 8 1/4"" Rapid Memo Book",17.472,3
+03/01/11,Home Office,Ukraine,EMEA,OFF-HON-10000137,Office Supplies,"Hon Round Labels, Laser Printer Compatible",13.32,2
+03/01/11,Consumer,Ukraine,EMEA,OFF-TEN-10001585,Office Supplies,"Tenex Box, Single Width",16.53,1
+03/01/11,Consumer,Australia,Oceania,OFF-BI-10004436,Office Supplies,"Acco Hole Reinforcements, Recycled",12.636,2
+03/01/11,Consumer,Australia,Oceania,OFF-BI-10000583,Office Supplies,"Wilson Jones Hole Reinforcements, Clear",21.546,6
+03/01/11,Consumer,Italy,South,OFF-BI-10003650,Office Supplies,"Ibico Index Tab, Clear",17.82,2
+03/01/11,Consumer,Ukraine,EMEA,OFF-TEN-10003211,Office Supplies,"Tenex Box, Wire Frame",31.14,2
+03/01/11,Corporate,Nigeria,Africa,OFF-HOO-10002386,Office Supplies,"Hoover Toaster, Silver",25.317,1
+03/01/11,Home Office,United States,East,TEC-PH-10003655,Technology,Sannysis Cute Owl Design Soft Skin Case Cover for Samsung Galaxy S4,5.94,3
+04/01/11,Corporate,Italy,South,TEC-PH-10003963,Technology,"Apple Signal Booster, Full Size",496.584,6
+04/01/11,Consumer,Italy,South,OFF-BI-10003705,Office Supplies,"Wilson Jones Binding Machine, Recycled",295.92,6
+04/01/11,Corporate,South Korea,North Asia,FUR-BO-10003408,Furniture,"Ikea 3-Shelf Cabinet, Metal",567.6,5
+04/01/11,Consumer,Italy,South,OFF-AR-10000399,Office Supplies,"Stanley Canvas, Water Color",157.95,3
+04/01/11,Corporate,Peru,South,TEC-PH-10002871,Technology,"Motorola Audio Dock, with Caller ID",138.696,2
+04/01/11,Home Office,Philippines,Southeast Asia,OFF-BI-10004651,Office Supplies,"Cardinal Binding Machine, Clear",83.691,2
+04/01/11,Corporate,Panama,Central,OFF-AP-10002753,Office Supplies,"Cuisinart Toaster, Red",85.536,4
+04/01/11,Consumer,Italy,South,TEC-AC-10004379,Technology,"SanDisk Flash Drive, Programmable",123.12,3
+04/01/11,Corporate,Peru,South,TEC-AC-10002760,Technology,"Memorex Memory Card, Erganomic",80.064,2
+04/01/11,Consumer,Colombia,South,TEC-AC-10003851,Technology,"Memorex Keyboard, Bluetooth",47.56,1
+04/01/11,Corporate,Peru,South,FUR-CH-10004783,Furniture,"Novimex Chairmat, Red",67.608,3
+04/01/11,Corporate,Peru,South,OFF-ST-10001374,Office Supplies,"Rogers Trays, Wire Frame",121.5,5
+04/01/11,Corporate,Peru,South,OFF-AR-10001991,Office Supplies,"Stanley Markers, Easy-Erase",44.94,5
+04/01/11,Corporate,Peru,South,FUR-FU-10003283,Furniture,"Rubbermaid Stacking Tray, Durable",20.112,2
+04/01/11,Corporate,South Korea,North Asia,OFF-ST-10004857,Office Supplies,"Smead Folders, Single Width",43.8,5
+04/01/11,Consumer,United States,West,OFF-LA-10002312,Office Supplies,Avery 490,29.6,2
+04/01/11,Home Office,Philippines,Southeast Asia,OFF-ST-10003319,Office Supplies,"Rogers Box, Wire Frame",25.344,2
+04/01/11,Consumer,Colombia,South,OFF-BI-10000188,Office Supplies,"Cardinal Hole Reinforcements, Economy",17.8,5
+04/01/11,Corporate,United States,East,OFF-ST-10000636,Office Supplies,Rogers Profile Extra Capacity Storage Tub,66.96,4
+04/01/11,Corporate,Panama,Central,OFF-BI-10004305,Office Supplies,"Cardinal Hole Reinforcements, Durable",10.944,4
+04/01/11,Consumer,Colombia,South,OFF-BI-10002222,Office Supplies,"Cardinal Binder Covers, Clear",15.28,2
+04/01/11,Consumer,United States,West,OFF-BI-10000042,Office Supplies,"Pressboard Data Binder, Crimson, 12"" X 8 1/2""",17.088,4
+04/01/11,Corporate,United States,East,OFF-BI-10000145,Office Supplies,Zipper Ring Binder Pockets,6.24,2
+04/01/11,Corporate,South Korea,North Asia,OFF-LA-10001764,Office Supplies,"Avery Round Labels, Adjustable",10.08,4

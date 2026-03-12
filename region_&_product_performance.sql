@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 -- Region Analysis
 
 -- Number of Region
@@ -19,6 +20,8 @@ FROM sales_data
 GROUP BY region
 ORDER BY 2 DESC;
 
+=======
+>>>>>>> top_products
 -- Top Products Analysis
 
 -- Top Product by Sales
